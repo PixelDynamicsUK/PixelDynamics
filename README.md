@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PixelDyanmics
+- 👋 Hi, I’m @PixelDynamics
 - 👀 I’m interested in all things front-end
 - 🌱 I’m currently learning more back-end stuff.
 - 💞️ I’m looking to collaborate on not much right now.... maybe soon?
